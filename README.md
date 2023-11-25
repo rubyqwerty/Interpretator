@@ -127,5 +127,4 @@ Output:
 ### `4. ./Translator --file=load_to_file`
 
 # **Запуск в докер контейнере**
-## **Укажите путь до программы**
 ### `docker run -v "$(pwd)"/program.txt:/app/program.txt  -it --rm interpretator:1`
